@@ -1,10 +1,10 @@
-package com.std.ec;
+package com.miempresa.miapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MiPrimerApiRestApplicationTests {
+class MiappApplicationTests {
 
 	@Test
 	void contextLoads() {

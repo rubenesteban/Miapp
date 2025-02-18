@@ -1,13 +1,13 @@
-package com.std.ec;
+package com.miempresa.miapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MiPrimerApiRestApplication {
+public class MiappApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MiPrimerApiRestApplication.class, args);
+		SpringApplication.run(MiappApplication.class, args);
 	}
 
 }
